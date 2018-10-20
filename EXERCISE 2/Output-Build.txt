@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: EXERCISE 2, Configuration: Debug Any CPU ------
+1>D:\5. SAP\GDIP SA\EXERCISE\EXERCISE 2\Program.cs(71,21,71,31): warning CS0162: Unreachable code detected
+1>  EXERCISE 2 -> D:\5. SAP\GDIP SA\EXERCISE\EXERCISE 2\bin\Debug\EXERCISE 2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
