@@ -1,2 +1,2 @@
-# GdipSA
-Workshop Exercises for Graduate Diploma
+# GdipSA - SQL
+SQL Workshop Exercises for Graduate Diploma
